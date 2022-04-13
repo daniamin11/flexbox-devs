@@ -1,33 +1,33 @@
 
 export const people = [
     {
-        name: 'Ariel',
+        name: 'Diego',
         role: 'Desarrollador Front-end',
         img: 'avatar1.jpg'
     },
     {
         name: 'Daniela',
-        role: 'Scrum Master',
+        role: 'Diseñadora UX/UI',
         img: 'avatar2.jpg'
     },
     {
-        name: 'Martin',
-        role: 'Diseñador UX/UI',
+        name: 'Alan',
+        role: 'Desarrollador Back-end',
         img: 'avatar3.png'
     },
     {
-        name: 'Nadir',
-        role: 'Administrador',
+        name: 'Cristian',
+        role: 'Manager',
         img: 'avatar4.webp'
     },
     {
-        name: 'Javier',
+        name: 'Rodrigo',
         role: 'Arquitecto de Software',
         img: 'avatar5.png'
     },
     {
-        name: 'Emilio',
-        role: 'Ingeniero de Sistemas',
+        name: 'Ivan',
+        role: 'Community Manager',
         img: 'avatar6.webp'
     },
 ]

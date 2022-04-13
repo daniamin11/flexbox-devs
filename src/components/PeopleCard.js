@@ -4,7 +4,7 @@ export const PeopleCard = ({name, role, img}) => {
       <div className='card'> 
         <div>
               <img 
-                  src={`assets/imgs/${img}`}
+                  src={`assets/imgs/${img}`} 
                   alt='avatar'
                   className="avatar"
               />
